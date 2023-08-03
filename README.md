@@ -5,7 +5,9 @@
 ## На що здатен на даний момент
 
 Має сторінку через яку користувач здатен зайти до свого акаунту.
-![image](https://github.com/Marikorzh/Little_messager/assets/55840494/8cc0c0bd-0824-4b92-b81f-af0f8fe078b1)
+<a href="посилання_на_збільшену_версію_зображення">
+  <img src="https://github.com/Marikorzh/Little_messager/assets/55840494/8cc0c0bd-0824-4b92-b81f-af0f8fe078b1" alt="Текст альтернативного опису зображення" width="300" height="200">
+</a>
 
 Процедура реєстрації.
 ![image](https://github.com/Marikorzh/Little_messager/assets/55840494/16457167-6dc7-433e-a539-4dd0a80b4cbd)
