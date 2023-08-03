@@ -1,10 +1,31 @@
-# messager
+# Маленький месенджер
 
-A new Flutter project.
+Створений для демонстрації навичок роботи із Flutter|Dart та Firebase.
 
-## Getting Started
+## На що здатен на даний момент
 
-This project is a starting point for a Flutter application.
+Має сторінку через яку користувач здатен зайти до свого акаунту.
+![image](https://github.com/Marikorzh/Little_messager/assets/55840494/8cc0c0bd-0824-4b92-b81f-af0f8fe078b1)
+
+Процедура реєстрації.
+![image](https://github.com/Marikorzh/Little_messager/assets/55840494/16457167-6dc7-433e-a539-4dd0a80b4cbd)
+
+Демонстрація зовнішнього вигляду повідомлень.
+![image](https://github.com/Marikorzh/Little_messager/assets/55840494/82e9a29e-821d-46b6-b4e5-350ef1569b68)
+
+Онлайн та офлайн. Змінюється у реальному часі.
+![image](https://github.com/Marikorzh/Little_messager/assets/55840494/3a363fd3-d265-4d1b-810b-2e33a0358e53)
+
+Сповіщення, коли користувач не онлайн
+![image](https://github.com/Marikorzh/Little_messager/assets/55840494/825326af-342e-46af-982e-4f3b6e8a0f62)
+
+
+
+
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
