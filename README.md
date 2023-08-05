@@ -6,9 +6,11 @@
 
 Має сторінку через яку користувач здатен зайти до свого акаунту.
 
-<a align = "center">
+<p align = "center">
+<a>
   <img src="https://github.com/Marikorzh/Little_messager/assets/55840494/8cc0c0bd-0824-4b92-b81f-af0f8fe078b1" alt="Текст альтернативного опису зображення" width="20%" height=auto>
 </a>
+</p>
 
 Процедура реєстрації.
 
