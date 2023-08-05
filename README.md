@@ -10,6 +10,7 @@
 <a>
   <img src="https://github.com/Marikorzh/Little_messager/assets/55840494/8cc0c0bd-0824-4b92-b81f-af0f8fe078b1" alt="Текст альтернативного опису зображення" width="20%" height=auto>
 </a>
+  <img src="https://github.com/Marikorzh/Little_messager/assets/55840494/16457167-6dc7-433e-a539-4dd0a80b4cbd" alt="Текст альтернативного опису зображення" width="20%" height=auto>
 </p>
 
 Процедура реєстрації.
